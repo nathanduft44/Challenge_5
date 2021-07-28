@@ -1,5 +1,5 @@
 # Challenge_5
-The purpose of this project was to pull live prices from Alpaca API
+The purpose of this project was to pull live prices from Alpaca API and set up a financial planner for emergencies and retirement.
 
 
 
